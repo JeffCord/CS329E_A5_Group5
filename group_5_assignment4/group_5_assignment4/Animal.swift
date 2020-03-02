@@ -13,12 +13,14 @@ class Animal {
     private var _scientificName:String?
     private var _animalClass:String?
     private var _size:Float?  // in terms of weight
+    private var _defaultImage:String?
     
-    init (commonName: String, scientificName: String,animalClass: String, averageSize: Float) {
+    init (commonName: String, scientificName: String,animalClass: String, averageSize: Float, defaultImage: String) {
         self._name = commonName
         self._scientificName = scientificName
         self._animalClass = animalClass
         self._size = averageSize // this will represent the animal's weight in kg
+        self._defaultImage = defaultImage
     }
     
     var name: String? {
@@ -54,6 +56,15 @@ class Animal {
         }
         set (newSize) {
             _size = newSize
+        }
+    }
+    
+    var defaultImage: String? {
+        get {
+            return _defaultImage
+        }
+        set (newDefaultImage) {
+            _defaultImage = newDefaultImage
         }
     }
 }
