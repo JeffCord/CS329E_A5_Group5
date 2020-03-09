@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D78F30E1-1BA6-4D65-A973-5DF7B6BDD3AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4E69421-6899-45FD-9D2E-6CBA5CFE96F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "group_5_assignment4/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F4E69421-6899-45FD-9D2E-6CBA5CFE96F8 - 73a7b741e5ad0e8f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "group_5_assignment4.ViewController.collectionView.getter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "group_5_assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanbingfang/Desktop/CS329E_A5_Group5-master/group_5_assignment4/group_5_assignment4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F4E69421-6899-45FD-9D2E-6CBA5CFE96F8 - b7257216e1171e83"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "group_5_assignment4.ViewController.collectionView.setter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "group_5_assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanbingfang/Desktop/CS329E_A5_Group5-master/group_5_assignment4/group_5_assignment4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F4E69421-6899-45FD-9D2E-6CBA5CFE96F8 - 6605114006f18292"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "group_5_assignment4.ViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "group_5_assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanbingfang/Desktop/CS329E_A5_Group5-master/group_5_assignment4/group_5_assignment4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "F4E69421-6899-45FD-9D2E-6CBA5CFE96F8 - 5cad17adc743e1fe"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "group_5_assignment4.ViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "group_5_assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanbingfang/Desktop/CS329E_A5_Group5-master/group_5_assignment4/group_5_assignment4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "F4E69421-6899-45FD-9D2E-6CBA5CFE96F8 - a277112f21b12fcd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "group_5_assignment4.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; group_5_assignment4.ViewController"
+                  moduleName = "group_5_assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanbingfang/Desktop/CS329E_A5_Group5-master/group_5_assignment4/group_5_assignment4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "F4E69421-6899-45FD-9D2E-6CBA5CFE96F8 - d48f34b82dfab815"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "group_5_assignment4.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;group_5_assignment4.ViewController&gt;"
+                  moduleName = "group_5_assignment4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanbingfang/Desktop/CS329E_A5_Group5-master/group_5_assignment4/group_5_assignment4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
